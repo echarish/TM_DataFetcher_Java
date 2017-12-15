@@ -1,0 +1,54 @@
+{
+	"change2Start": [
+		{
+			"PublicID": "pc_JP:1103",
+			"BuildingValue_amt": "200000.00",
+			"FixedID": "1103",
+			"ExpirationDate": "NULL",
+			"CPLocation": "1403",
+			"CreateTime": "2017-12-12 18:31:57.4790000",
+			"ID": "1103",
+			"EffectiveDate": "NULL"
+		},
+		{
+			"PublicID": "pc_JP:1104",
+			"BuildingValue_amt": "400000.00",
+			"FixedID": "1103",
+			"ExpirationDate": "NULL",
+			"CPLocation": "1403",
+			"CreateTime": "2017-12-12 18:34:09.4680000",
+			"ID": "1104",
+			"EffectiveDate": "2017-12-16 00:00:00.0000000"
+		},
+		{
+			"PublicID": "pc_JP:1105",
+			"BuildingValue_amt": "200000.00",
+			"FixedID": "1103",
+			"ExpirationDate": "2017-12-16 00:00:00.0000000",
+			"CPLocation": "1403",
+			"CreateTime": "2017-12-12 18:35:32.1450000",
+			"ID": "1105",
+			"EffectiveDate": "NULL"
+		},
+		{
+			"PublicID": "pc_JP:1106",
+			"BuildingValue_amt": "400000.00",
+			"FixedID": "1103",
+			"ExpirationDate": "NULL",
+			"CPLocation": "1403",
+			"CreateTime": "2017-12-12 18:37:40.9650000",
+			"ID": "1106",
+			"EffectiveDate": "2017-12-16 00:00:00.0000000"
+		},
+		{
+			"PublicID": "pc_JP:1107",
+			"BuildingValue_amt": "200000.00",
+			"FixedID": "1103",
+			"ExpirationDate": "2017-12-16 00:00:00.0000000",
+			"CPLocation": "1403",
+			"CreateTime": "2017-12-12 18:37:40.9650000",
+			"ID": "1107",
+			"EffectiveDate": "NULL"
+		}
+	]
+}
